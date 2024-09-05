@@ -6,7 +6,8 @@ Este projeto é um chatbot simples desenvolvido em Python para fornecer atendime
 
 Veja o vídeo demonstrativo do chatbot para uma visão mais detalhada de como ele funciona:
 
-[![Veja o vídeo](https://link-para-sua-miniatura.com/imagem.jpg)](https://youtu.be/x4dbBhDXieU)
+[![Veja o vídeo](./chatbot3.jpg)](https://youtu.be/x4dbBhDXieU)
+
 
 ## Funcionalidades
 
