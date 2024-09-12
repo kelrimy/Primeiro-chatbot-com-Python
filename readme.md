@@ -1,4 +1,4 @@
-# Chatbot de Atendimento de.cada.canto
+# Chatbot de Atendimento Ao Cliente
 
 Este projeto é um chatbot simples desenvolvido em Python para fornecer atendimento automatizado às dúvidas frequentes dos clientes da marca de camisetas **de.cada.canto**. O chatbot oferece um menu interativo com respostas pré-definidas para dúvidas frequentes (FAQs), permitindo que os usuários obtenham rapidamente as informações que desejam.
 
